@@ -1,3 +1,5 @@
+package task1;
+
 import javax.naming.spi.DirectoryManager;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
