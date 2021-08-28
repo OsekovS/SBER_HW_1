@@ -1,3 +1,5 @@
+package task3;
+
 import java.util.*;
 
 class Player implements Comparable
@@ -27,7 +29,7 @@ class Player implements Comparable
     }
 }
 
-public class task3_5
+public class SubTask5
 {
 
     public static void main(String[] args) {
